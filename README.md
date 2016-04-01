@@ -1,6 +1,6 @@
 # JSTP Parser In PHP
 
-encodes and decodes JSTP from / to to PHP
+encodes and decodes JSTP from / to PHP
 
 ## Usage
 
