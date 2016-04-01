@@ -14,12 +14,12 @@ http://$YourHostName/index.php?decode=$JSTPString
 
 ```php
 $parser = new Services_JSTP();
-$parser->decode($jstp);
+var_dump($parser->decode($jstp));
 ```
 
 ### Encoding
 
 ```php
 $parser = new Services_JSTP();
-$jstp $parser->decode($yourObjectOrArrayOrSmth);
+$jstp = $parser->decode($yourObjectOrArrayOrSmth);
 ```
