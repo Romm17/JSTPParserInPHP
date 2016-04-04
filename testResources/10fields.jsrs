@@ -1,0 +1,15 @@
+{
+	field1: "1234",
+	field2: 4321,
+	field3: true,
+	field4: [],
+	field5: [1,2,3,4,5],
+	field6: null,
+	field7: {},
+	field8: {
+		name: "world",
+		warning: 4
+	},
+	field9: "445",
+	field10: false
+}
